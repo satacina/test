@@ -1,2 +1,2 @@
 # test
-just learing
+just learning
